@@ -12,3 +12,6 @@ local person add this again
 =======
 changed by others again
 >>>>>>> origin/master
+
+
+333local I add some news 00:04 from localhost
