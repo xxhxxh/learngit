@@ -13,5 +13,9 @@ local person add this again
 changed by others again
 >>>>>>> origin/master
 
+<<<<<<< HEAD
 
 333local I add some news 00:04 from localhost
+=======
+other guy changed 33333 from sina。com
+>>>>>>> origin/master
